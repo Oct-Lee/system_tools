@@ -3,6 +3,7 @@ import subprocess
 import sys
 import re
 import logging
+import json
 from pathlib import Path
 from localization import setup_locale, _
 
