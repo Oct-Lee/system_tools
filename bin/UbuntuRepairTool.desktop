@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Ubuntu Repair Tool
+Exec=/home/unitx/miniconda3/envs/unified_production/bin/python /home/factory/demo_tool_1.2_release/main.py
+Icon=/home/factory/demo_tool_1.2_release/bin/ubuntu_repair_tool.ico
+Terminal=false
+Type=Application
+StartupWMClass=ubuntu_repair_tool

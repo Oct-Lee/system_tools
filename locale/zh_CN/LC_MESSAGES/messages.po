@@ -1,0 +1,17 @@
+msgid "Checking GPU driver status..."
+msgstr "正在检查 GPU 驱动状态..."
+
+msgid "NVIDIA GPU:"
+msgstr "NVIDIA GPU："
+
+msgid "NVIDIA driver information:"
+msgstr "NVIDIA 驱动信息："
+
+msgid "NVIDIA driver is not installed or cannot be accessed."
+msgstr "NVIDIA 驱动未安装或无法访问。"
+
+msgid "NVIDIA GPU not found, driver may need to be installed."
+msgstr "未找到 NVIDIA GPU，可能需要安装驱动。"
+
+msgid "Error checking GPU driver: "
+msgstr "检查 GPU 驱动时出错："
